@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+GitIgnoreMe.docx
+scrap/
+*.jpg
+file1?.txt
